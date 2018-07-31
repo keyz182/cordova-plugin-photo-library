@@ -1,3 +1,5 @@
+ASB Fork - don't use!
+
 [![Build Status](https://travis-ci.org/terikon/cordova-plugin-photo-library.svg?branch=master)](https://travis-ci.org/terikon/cordova-plugin-photo-library)
 
 That's how it looks and performs in real app:
